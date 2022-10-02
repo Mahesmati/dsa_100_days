@@ -1,0 +1,2 @@
+# DAY 1
+STREAK 1.
